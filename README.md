@@ -4,7 +4,7 @@
 
 **A hands-on calculus playground for area, slope, and accumulation.**
 
-[Open `index.html`](index.html) · No build step · No dependencies
+[**Live demo →**](https://pbaruah1.github.io/integral-studio/) · [View source](index.html) · No build step
 
 </div>
 
@@ -68,6 +68,10 @@ python -m http.server 8000
 ```
 
 Then visit <http://localhost:8000>.
+
+## Live demo
+
+<https://pbaruah1.github.io/integral-studio/>
 
 ## Project structure
 
